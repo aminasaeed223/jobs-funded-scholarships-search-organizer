@@ -249,6 +249,16 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 </details>
 
+<details> 
+<summary> <h2>🔍  Job Searching Resources </h2> </summary>
+
+| Title/Link | Description | Tags |Country|Feedback|
+|---|---|---|---|---|
+| [**5 Prompts To 10x Your LinkedIn Profile**](https://jaindl.substack.com/p/5-prompts-to-10x-your-linkedin-profile) | Largest professional job board. | Jobs, AI,others |Pakistan|
+
+</details>
+
+
 ## 📬 Stay Updated with Job Search Tips!
 
 Get weekly job search strategies, new tools, and career advice straight to your inbox.  
