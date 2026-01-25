@@ -144,6 +144,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
+<summary> <h2>📈 Research Projects </h2> </summary>
+
+| Title/Link | Description | Tags |
+|---|---|---|
+| [**King Abdullah University Sauid Arab**](https://cybersar.kaust.edu.sa/) | Visual job application tracker. | Organization, Free |
+</details>
+
+<details> 
 <summary> <h2>🔍 Postdoc Job Search Platforms </h2> </summary>
 
 | Title/Link | Description | Tags |
